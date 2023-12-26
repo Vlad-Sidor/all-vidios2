@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68fbd733.css",
+    "main.js": "/static/js/main.80aa12d4.js",
+    "static/media/cameraone.svg": "/static/media/cameraone.b60a5b40d7498042ba02687ca9048216.svg",
+    "static/media/rectangleone.svg": "/static/media/rectangleone.88d4db5f04389b3eb3a705cfd1e652ac.svg",
+    "static/media/banner.svg": "/static/media/banner.fcf29c7b1073f91dbe1e.svg",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "static/media/instagram.svg": "/static/media/instagram.8dbde9f29cb37627d42f4534932d3b0b.svg",
+    "static/media/telegram.svg": "/static/media/telegram.b40437475c230b21440996ddf9b85814.svg",
+    "static/media/bannermini.png": "/static/media/bannermini.98475024dc0b3f4d581c.png",
+    "static/media/vk.svg": "/static/media/vk.a305f0f9f01ef915d46647f161352ffe.svg",
+    "static/media/calculator.svg": "/static/media/calculator.365b3d4137c1af407ed3079b6b21f317.svg",
+    "static/media/logo.svg": "/static/media/logo.f8e9261d0accb1e9f2aa5077db003124.svg",
+    "static/media/rectanglethree.svg": "/static/media/rectanglethree.15bce9ba07e8b23dcfdd5f172f05e35a.svg",
+    "static/media/rectangletwo.svg": "/static/media/rectangletwo.f0cef03470f8f519d033b13511ce28f7.svg",
+    "static/media/coll-button.svg": "/static/media/coll-button.3d643a8c1cd961262379f9cd03e3373b.svg",
+    "static/media/coll.svg": "/static/media/coll.55f7d7aa8d49d610d3d36e2a5fac766b.svg",
+    "static/media/questionsiconone.png": "/static/media/questionsiconone.8dc2939c3715ad324c99.png",
+    "static/media/questionsicontwo.png": "/static/media/questionsicontwo.42daf61ccdf549505117.png",
+    "static/media/questionsicon.png": "/static/media/questionsicon.80abe202e6adb1af33d9.png",
+    "index.html": "/index.html",
+    "static/media/rectanglefor.svg": "/static/media/rectanglefor.476d5f456825972e44f12746f944d8ef.svg",
+    "static/media/ellipse.svg": "/static/media/ellipse.251f321ba83cbb60f5cb892ece61d955.svg",
+    "main.68fbd733.css.map": "/static/css/main.68fbd733.css.map",
+    "main.80aa12d4.js.map": "/static/js/main.80aa12d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68fbd733.css",
+    "static/js/main.80aa12d4.js"
+  ]
+}
